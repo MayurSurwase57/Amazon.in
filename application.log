@@ -1,0 +1,32 @@
+2023-06-02 16:56:19,142  INFO [main] amazon:48 - browser is opened
+2023-06-02 16:56:26,107  INFO [main] amazon:51 - browser is maximized
+2023-06-02 16:56:27,910  INFO [main] amazon:54 - amazon URL is opened
+2023-06-02 16:56:28,933  INFO [main] amazon:58 - entered email ID
+2023-06-02 16:56:29,748  INFO [main] amazon:63 - entered password
+2023-06-02 16:56:29,803  INFO [main] amazon:67 - Click on sign in button
+2023-06-02 16:56:32,175  INFO [main] amazon:78 - Text enterd in search box text
+2023-06-02 16:56:33,954  INFO [main] amazon:81 - Clicked on search icon
+2023-06-02 16:56:34,196  INFO [main] amazon:90 - Verifying search box actual result and expected result
+2023-06-02 16:56:39,203  INFO [main] amazon:96 - select the price renge over 20000
+2023-06-02 16:56:39,958  INFO [main] amazon:108 - Click on the Apple iPhone 14 Pro Max (128 GB)
+2023-06-02 16:56:44,293  INFO [main] amazon:120 - Changed the size 128GB to 256 GB
+2023-06-02 16:56:47,291  INFO [main] amazon:127 - Click on add to cart
+2023-06-02 16:56:53,385  INFO [main] amazon:132 - Click on checkout button
+2023-06-02 16:56:53,626  INFO [main] amazon:137 - Click on add new address button
+2023-06-02 16:56:53,719  INFO [main] amazon:141 - entered Full Name
+2023-06-02 16:56:53,806  INFO [main] amazon:144 - entered Phone Number
+2023-06-02 16:56:53,901  INFO [main] amazon:147 - entered Postal Code
+2023-06-02 16:56:54,053  INFO [main] amazon:150 - entered Address Line 1
+2023-06-02 16:56:54,226  INFO [main] amazon:153 - entered Address Line 2
+2023-06-02 16:56:54,373  INFO [main] amazon:156 - entered landmark
+2023-06-02 16:56:54,455  INFO [main] amazon:159 - entered Address City
+2023-06-02 16:56:54,499  INFO [main] amazon:166 - Select State
+2023-06-02 16:56:54,726  INFO [main] amazon:171 - Click on use this address button
+2023-06-02 16:57:01,533  INFO [main] amazon:174 - Select payment method Pay with Debit/Credit/ATM Cards 
+2023-06-02 16:57:01,596  INFO [main] amazon:177 - Click on enter card details
+2023-06-02 16:57:03,880  INFO [main] amazon:184 - enter card number
+2023-06-02 16:57:03,952  INFO [main] amazon:190 - Select card Expiry date
+2023-06-02 16:57:03,998  INFO [main] amazon:197 - Select card Expiry year
+2023-06-02 16:57:04,231  INFO [main] amazon:201 - Click on enter card details button
+2023-06-02 16:57:07,139  INFO [main] amazon:209 - enter card CVC Number
+2023-06-02 16:57:07,351  INFO [main] amazon:213 - Click on use thes payment method button
